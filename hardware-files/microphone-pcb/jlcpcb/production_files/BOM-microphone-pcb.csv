@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x04,J1,PinHeader_1x04_P2.54mm_Horizontal,
+1uF,C1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+MP34DT05TR-A,MK1,MP34DT05TRA,
+100nF,C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,

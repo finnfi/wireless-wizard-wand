@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Haptics")(type "KiCad")(uri "/home/tordna/Documents/PCB-library/Qwiic_Haptic_Driver_DA7280/Hardware/Qwiic_Haptic_Driver_DA7280/Qwiic_Haptic_Driver_DA7280-eagle-import.kicad_sym")(options "")(descr ""))
+)

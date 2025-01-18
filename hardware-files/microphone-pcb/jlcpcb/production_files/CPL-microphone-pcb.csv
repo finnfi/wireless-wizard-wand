@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,135.0775,-75.61,0.0,top
+C2,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,135.0875,-73.54,180.0,top
+J1,Conn_01x04,PinHeader_1x04_P2.54mm_Horizontal,131.943,-78.683,-90.0,top
+MK1,MP34DT05TR-A,MP34DT05TRA,129.58,-74.36,90.0,top

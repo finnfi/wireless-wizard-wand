@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0402,1,1uF,
+C2,0402,1,100nF,
+J1,PinHeader_1x04_P2.54mm_Horizontal,1,Conn_01x04,
+MK1,MP34DT05TRA,1,MP34DT05TR-A,
